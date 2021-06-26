@@ -6,4 +6,4 @@
 5. V případě jiného názvu databáze --> v souboru connection.php u proměnné $database = "vos" --> změnit na jiný název databaze<br>
 6. Potom v prohlížeči do vyhledávaní zadat cestu do složky se soubory programu ---> http://localhost:/Projects/Registration-Form-main<br>
 7. Na úvodní strance by se měl objevit přihlašovací formulář<br>
-8. Před přihlášením je třeba provést registraci<br>
+8. Před přihlášením, pokud nejste zaregistrovaní, je třeba provést registraci<br>
